@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp"
+    android:background="#1a1a1a">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEIF VIP LOADER"
+        android:textSize="30sp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:layout_marginBottom="50dp"/>
+
+    <Button
+        android:id="@+id/btnSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🚀 SPEED HACK"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:backgroundTint="#FFD700"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnImbue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="⚡ IMBUE (PYTHON)"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:backgroundTint="#00BFFF"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🎯 MAP DETECTOR"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:backgroundTint="#FF4500"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnPlayerDetect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="👀 PLAYER DETECTOR"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:backgroundTint="#00FF00"
+        android:padding="15dp"
+        android:layout_marginBottom="15dp"/>
+
+    <Button
+        android:id="@+id/btnFirewall"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🛡️ FIREWALL"
+        android:textSize="18sp"
+        android:textColor="#000000"
+        android:backgroundTint="#32CD32"
+        android:padding="15dp"/>
+</LinearLayout>
